@@ -34,7 +34,9 @@ A Blank Document opens up into which the following source code can be typed down
 
 ## Source Code – Using Case Statement :
 
-~~
+
+
+```
 module alu_32bit_case(y,a,b,f);
 input [31:0]a;
 input [31:0]b;
@@ -54,7 +56,7 @@ default:y=32'bx;
 endcase
 end
 endmodule
-~~
+```
 
 
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
