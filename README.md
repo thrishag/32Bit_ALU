@@ -305,6 +305,8 @@ endmodule
 
 <br>
 **<p align="center">  Fig 11:Simulation Waveform Window**    
-**Result:** 
+
+**Result:**   <br>
+      
 <br>
 &emsp;&emsp;The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
